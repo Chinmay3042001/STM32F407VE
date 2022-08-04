@@ -1,0 +1,10 @@
+07:51:14 **** Incremental Build of configuration Debug for project STM32F407_Baremetal ****
+make -j8 all 
+arm-none-eabi-size   STM32F407_Baremetal.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5704	     20	   1572	   7296	   1c80	STM32F407_Baremetal.elf
+Finished building: default.size.stdout
+ 
+
+07:51:14 Build Finished. 0 errors, 0 warnings. (took 448ms)
+

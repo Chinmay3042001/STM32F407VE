@@ -1,0 +1,17 @@
+/*
+ * clk_config.h
+ *
+ *  Created on: Jun 18, 2022
+ *      Author: crmar
+ */
+
+#ifndef CLK_CONFIG_H_
+#define CLK_CONFIG_H_
+#include "stm32f4xx.h"
+#include "stm32f407xx.h"
+#include "system_stm32f4xx.h"
+
+
+
+
+#endif /* CLK_CONFIG_H_ */
